@@ -139,7 +139,7 @@ body {
 
 * {
   text-align: center;
-  color: rgb(130, 190, 234);
+  color: rgb(11, 79, 129);
 }
 
 h1, h2, h3, h4, h5 {
@@ -154,20 +154,20 @@ h1, h2, h3, h4, h5 {
 header {
   width: 100%;
   height: 100px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(210, 240, 247);
 }
 
 footer {
   width: 100%;
   height: 100px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(210, 240, 247);
 }
 
 .section-1 {
-  background-color: rgb(254, 254, 254);
+  background-color: rgb(224, 141, 240);
   padding: 25px;
-  border-left: 1.4em solid rgb(255, 255, 255);
-  border-right: 1.4em solid rgb(255, 255, 255);
+  border-left: 1.4em solid rgb(210, 240, 247);
+  border-right: 1.4em solid rgb(210, 240, 247);
 }
 .section-1--text {
   display: flex;
@@ -181,11 +181,11 @@ h1 {
 }
 
 .section-2 {
-  border-top: 1.4em solid rgb(255, 255, 255);
-  border-left: 1.4em solid rgb(255, 255, 255);
-  border-right: 1.4em solid rgb(255, 255, 255);
+  border-top: 1.4em solid rgb(210, 240, 247);
+  border-left: 1.4em solid rgb(210, 240, 247);
+  border-right: 1.4em solid rgb(210, 240, 247);
   padding: 2.2em;
-  background-color: rgb(254, 254, 254);
+  background-color: rgb(224, 141, 240);
 }
 
 .section-2-ustawienia {
@@ -211,11 +211,11 @@ h1 {
 }
 
 .section-3 {
-  border-left: 1.4em solid rgb(255, 255, 255);
-  border-right: 1.4em solid rgb(255, 255, 255);
-  border-bottom: 1.4em solid rgb(255, 255, 255);
+  border-left: 1.4em solid rgb(210, 240, 247);
+  border-right: 1.4em solid rgb(210, 240, 247);
+  border-bottom: 1.4em solid rgb(210, 240, 247);
   padding: 2.2em;
-  background-color: rgb(254, 254, 254);
+  background-color: rgb(224, 141, 240);
 }
 
 .section-3-ustawienia {
@@ -241,11 +241,11 @@ h1 {
 }
 
 .section-4 {
-  border-top: 1.4em solid rgb(255, 255, 255);
-  border-left: 1.4em solid rgb(255, 255, 255);
-  border-right: 1.4em solid rgb(255, 255, 255);
+  border-top: 1.4em solid rgb(210, 240, 247);
+  border-left: 1.4em solid rgb(210, 240, 247);
+  border-right: 1.4em solid rgb(210, 240, 247);
   padding: 2.2em;
-  background-color: rgb(254, 254, 254);
+  background-color: rgb(224, 141, 240);
   display: flex;
   display: flex;
   justify-content: center;
@@ -260,11 +260,11 @@ h1 {
 }
 
 .section-5 {
-  border-top: 1.4em solid rgb(255, 255, 255);
-  border-left: 1.4em solid rgb(255, 255, 255);
-  border-right: 1.4em solid rgb(255, 255, 255);
+  border-top: 1.4em solid rgb(210, 240, 247);
+  border-left: 1.4em solid rgb(210, 240, 247);
+  border-right: 1.4em solid rgb(210, 240, 247);
   padding: 2.2em;
-  background-color: rgb(254, 254, 254);
+  background-color: rgb(224, 141, 240);
 }
 
 .section-5-ustawienia {
@@ -291,11 +291,11 @@ h1 {
 }
 
 .section-6 {
-  border-top: 1.4em solid rgb(255, 255, 255);
-  border-left: 1.4em solid rgb(255, 255, 255);
-  border-right: 1.4em solid rgb(255, 255, 255);
+  border-top: 1.4em solid rgb(210, 240, 247);
+  border-left: 1.4em solid rgb(210, 240, 247);
+  border-right: 1.4em solid rgb(210, 240, 247);
   padding: 2.2em;
-  background-color: rgb(254, 254, 254);
+  background-color: rgb(224, 141, 240);
 }
 
 .section-6-ustawienia {
@@ -321,11 +321,11 @@ h1 {
 }
 
 .section-7 {
-  border-top: 1.4em solid rgb(255, 255, 255);
-  border-left: 1.4em solid rgb(255, 255, 255);
-  border-right: 1.4em solid rgb(255, 255, 255);
+  border-top: 1.4em solid rgb(210, 240, 247);
+  border-left: 1.4em solid rgb(210, 240, 247);
+  border-right: 1.4em solid rgb(210, 240, 247);
   padding: 2.2em;
-  background-color: rgb(254, 254, 254);
+  background-color: rgb(224, 141, 240);
 }
 
 .section-7-ustawienia {
